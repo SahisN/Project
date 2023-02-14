@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Menu</string>
+    <string name="header">Our Food</string>
+    <string name="special">Special For You</string>
+    <string name="hamburger">HamBurger</string>
+    <string name="donut">Donut</string>
+    <string name="Pasta">Pasta</string>
+    <string name="shawarmaPrice">$ 6.99</string>
+    <string name="PastaPrice">$ 9.99</string>
+    <string name="taco">Taco</string>
+    <string name="pasta">Pasta</string>
+    <string name="hamburgerPrice">$ 5.99</string>
+    <string name="donutPrice">$ 3.99</string>
+    <string name="tacoPrice">$ 6.99</string>
+    <string name="pastaPrice">$ 9.99</string>
+    <string name="shawarma">Shawarma</string>
+    <string name="colaText">Coke</string>
+    <string name="mntDewText">Mountain Dew</string>
+    <string name="colaPrice">$ 2.99</string>
+    <string name="mntDewPrice">$ 2.99</string>
+    <string name="pepsiText">Pepsi</string>
+    <string name="pepsiPrice">$ 3.99</string>
+    <string name="spriteText">Sprite</string>
+    <string name="spritePrice">$ 2.68</string>
+    <string name="backButton">Go Back</string>
+    <string name="slogan">Satisfy your sweet tooth with every bite.</string>
+    <string name="nutritionFact">Calories: 269 \n Protein: 4 grams \n Fat: 15 grams \n Carbs: 31 grams \n Sugar:15 grams</string>
+
+
+</resources>
